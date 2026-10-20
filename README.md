@@ -7,6 +7,10 @@ Análisis de el comportamiento de los clientes con su plan tarifario usando Pyth
 Realizar un análisis preliminar de las tarifas basado den una seleccion de clientes
 
 ## 🛠 Herramientas 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
 -  Python, Pandas, Numpy, Scipy, Seaborn y Matplotlib
 -  Limpieza de datos, EDA, Cálculos de metricas por usuario, Calculo de ingresos mensuales, Estadísticas descriptivas y Prueba de hipótesis estadisticas
 
